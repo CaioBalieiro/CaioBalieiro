@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaioBalieiro, I'm Data Scientist/Statistician.
 - 🌱 I'm currently doing a PhD in Statistics at UFMG. 
 - 👀 I’m interested in Survival and Machine Learning models using R and Python language.
-- 🌱 I’m currently learning regression survival models using R languague.
+- 🌱 I’m currently work with regression survival models using R language.
 - 💞️ I'm looking to collaborate on application of statistical models for problem solving involving real datasets.
 - 📫 How to reach me: balieiro@ufmg.br
 
