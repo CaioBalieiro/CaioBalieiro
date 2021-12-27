@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaioBalieiro, I'm data scientist/statistician.
+- 👋 Hi, I’m @CaioBalieiro, I'm Data Scientist/Statistician.
 - 🌱 I'm currently doing a PhD in Statistics at UFMG. 
 - 👀 I’m interested in Survival and Machine Learning models using R and Python language.
 - 🌱 I’m currently learning regression survival models using R languague.
