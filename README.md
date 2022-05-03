@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaioBalieiro, I'm Data Scientist at A3Data.
-- 🌱 I'm currently doing a PhD in Statistics at UFMG. 
+- 🌱 I'm currently studying for a PhD in Statistics at UFMG.
 - 👀 I’m interested in Survival and Machine Learning models using R and Python language.
 - 🌱 I’m currently work with regression survival models using R language.
 - 💞️ I'm looking to collaborate on application of statistical models for problem solving involving real datasets.
